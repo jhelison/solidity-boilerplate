@@ -5,6 +5,7 @@ A simple, yet effective starting point for your Solidity projects.
 Features
 - Clear and concise project structure
 - TypeScript integration for enhanced developer experience
+- Solidity and Github actions CI
 - Hardhat configuration for compilation, testing, deployment, and more
 - Solhint integration for linting and code quality checks
 - Basic testing setup using Mocha and Chai
